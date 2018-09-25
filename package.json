@@ -1,8 +1,8 @@
 {
-  "name": "react-masonry-component",
-  "version": "6.2.1",
+  "name": "react-packery",
+  "version": "1.0.0",
   "main": "./lib/index",
-  "description": "A masonry component for React.js",
+  "description": "A packery component for React.js",
   "typings": "typings.d.ts",
   "dependencies": {
     "create-react-class": "^15.6.2",
@@ -45,7 +45,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/eiriklv/react-masonry-component.git"
+    "url": "git://github.com/anucreative/react-packery.git"
   },
   "keywords": [
     "react",
@@ -63,8 +63,8 @@
     }
   ],
   "bugs": {
-    "url": "https://github.com/eiriklv/react-masonry-component/issues"
+    "url": "https://github.com/anucreative/react-packery/issues"
   },
-  "homepage": "https://github.com/eiriklv/react-masonry-component",
+  "homepage": "https://github.com/anucreative/react-packery",
   "license": "MIT"
 }
