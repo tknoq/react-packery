@@ -2,6 +2,7 @@
   "name": "react-packery",
   "version": "1.0.0",
   "main": "./lib/index",
+  "private": true,
   "description": "A packery component for React.js",
   "typings": "typings.d.ts",
   "dependencies": {
